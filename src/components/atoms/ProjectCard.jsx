@@ -22,7 +22,7 @@ export default function ProjectCard({
               key={index}
               src={element}
               alt="Project Image"
-              className="h-[10rem]"
+              className="h-[8rem] lg:h-1[10rem]"
             />
           );
         })}

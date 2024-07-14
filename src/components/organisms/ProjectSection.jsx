@@ -3,7 +3,7 @@ import ProjectCards from "../molecules/ProjectCards";
 
 export default function ProjectSection() {
   return (
-    <div className="grid grid-cols-1 items-center px-16">
+    <div className="grid grid-cols-1 items-center px-5 lg:px-16">
       <h1 className="font-extrabold font-lato text-4xl text-cadetGrey text-center mt-7">
         P R O J E C T S
       </h1>
